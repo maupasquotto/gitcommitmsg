@@ -1,11 +1,8 @@
 # Git Commit Msg
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Latest Stable Version](https://poser.pugx.org/maupasquotto/git-commit-msg/v/stable)](https://packagist.org/packages/maupasquotto/git-commit-msg)
+[![License](https://poser.pugx.org/maupasquotto/git-commit-msg/license)](https://packagist.org/packages/maupasquotto/git-commit-msg)
+[![Total Downloads](https://poser.pugx.org/maupasquotto/git-commit-msg/downloads)](https://packagist.org/packages/maupasquotto/git-commit-msg)
 
 Hey! Are you out of ideas for commit messages ? <br>
 I can help you ! I created a package that gather commit message ideas for you  :)
