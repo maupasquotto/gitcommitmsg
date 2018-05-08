@@ -1,5 +1,5 @@
 {
-    "name": "Maupasquotto/GitCommitMsg",
+    "name": "maupasquotto/git-commit-msg",
     "type": "library",
     "description": "Necessary commit messages",
     "keywords": [
